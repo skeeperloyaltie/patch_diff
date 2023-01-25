@@ -1,0 +1,1 @@
+[('-', 'This is the first line of the first file.\n'), ('+', 'This is the first line of the second file.\n'), ('+', 'This is the fourth line of the second file.\n')]
